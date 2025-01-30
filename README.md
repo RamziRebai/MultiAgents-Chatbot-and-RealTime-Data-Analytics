@@ -1,6 +1,3 @@
-# MultiAgents-Chatbot-Real-Time-Data-Analytics
-This **Multi-Agent RAG System** is an advanced AI-powered chatbot designed for e-commerce platforms. It offers **personalized fashion recommendations**, handles **complex shopping queries**, and delivers **real-time business insights** through dynamic analytics dashboards.
-
 # 🛍️ Multi-Agent AI-Powered E-Commerce Chatbot
 
 ![AI Chatbot](https://img.shields.io/badge/AI--Powered%20Chatbot-LangGraph-blue?style=for-the-badge)
