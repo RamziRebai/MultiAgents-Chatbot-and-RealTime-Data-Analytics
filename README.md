@@ -6,7 +6,9 @@
 
 This **Multi-Agent RAG System** is an advanced AI-powered chatbot designed for e-commerce platforms. It offers **personalized fashion recommendations**, handles **complex shopping queries**, and delivers **real-time business insights** through dynamic analytics dashboards.
 
-🔗 **Try it now**: [Multi-Agent Chatbot](https://multi-agent-chatbot-7e5fcec42e46.herokuapp.com/)
+🔗 **Try it now**: [Multi-Agent Chatbot](https://multi-agent-chatbot-production.up.railway.app/)
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7290342858023157760/" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 ## 🧠 Key Features
 
