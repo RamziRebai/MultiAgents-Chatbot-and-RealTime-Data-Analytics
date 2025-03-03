@@ -9,6 +9,8 @@ This **Multi-Agent RAG System** is an advanced AI-powered chatbot designed for e
 🔗 **Try it now**: [Multi-Agent Chatbot](https://multi-agent-chatbot-production.up.railway.app/)
 
 [Watch the video on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7290342858023157760/)
+![The Agentic System's Workflow with Langgraph](./langgraph.png)
+
 
 ## 🧠 Key Features
 
@@ -49,7 +51,7 @@ This project leverages **LangGraph**, a powerful tool for orchestrating AI agent
 
 We’d love your feedback! Try out the chatbot, and feel free to contribute to the project.
 
-🔗 **Live Demo**: [Multi-Agent Chatbot](https://multi-agent-chatbot-7e5fcec42e46.herokuapp.com/)
+🔗 **Live Demo**: [Multi-Agent Chatbot](https://multi-agent-chatbot-production.up.railway.app/)
 
 💬 Have ideas or suggestions? Let's collaborate!
 
