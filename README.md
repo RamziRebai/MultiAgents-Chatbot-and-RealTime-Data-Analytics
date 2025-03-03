@@ -8,7 +8,7 @@ This **Multi-Agent RAG System** is an advanced AI-powered chatbot designed for e
 
 🔗 **Try it now**: [Multi-Agent Chatbot](https://multi-agent-chatbot-production.up.railway.app/)
 
-[![Watch on LinkedIn](https://via.placeholder.com/560x315.png?text=Watch+on+LinkedIn)](https://www.linkedin.com/feed/update/urn:li:activity:7290342858023157760/)
+[Watch the video on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7290342858023157760/)
 
 ## 🧠 Key Features
 
